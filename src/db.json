@@ -1,0 +1,92 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Iron Man",
+      "username": "TonyStark",
+      "email": "tonystark@example.com",
+      "phone": "1234567890",
+      "website": "ironman.com"
+    },
+    {
+      "id": 2,
+      "name": "Spider-Man",
+      "username": "PeterParker",
+      "email": "peterparker@example.com",
+      "phone": "9876543210",
+      "website": "spiderman.com",
+      "avenger": "Spidyy"
+    },
+    {
+      "id": 3,
+      "name": "Thor",
+      "username": "ThunderGod",
+      "email": "thor@example.com",
+      "phone": "5551234567",
+      "website": "asgard.com"
+    },
+    {
+      "id": 4,
+      "name": "Black Widow",
+      "username": "NatashaRomanoff",
+      "email": "natasharomanoff@example.com",
+      "phone": "6549873210",
+      "website": "blackwidow.com"
+    },
+    {
+      "id": 5,
+      "name": "Hulk",
+      "username": "BruceBanner",
+      "email": "brucebanner@example.com",
+      "phone": "3214567890",
+      "website": "hulk.com"
+    },
+    {
+      "id": 6,
+      "name": "Wolverine",
+      "username": "Logan",
+      "email": "logan@example.com",
+      "phone": "4567890123",
+      "website": "wolverine.com"
+    },
+    {
+      "id": 7,
+      "name": "Black Panther",
+      "username": "TChalla",
+      "email": "tchalla@example.com",
+      "phone": "7893216540",
+      "website": "blackpanther.com"
+    },
+    {
+      "id": 8,
+      "name": "Doctor Strange",
+      "username": "StephenStrange",
+      "email": "stephenstrange@example.com",
+      "phone": "1472583690",
+      "website": "doctorstrange.com"
+    },
+    {
+      "id": 9,
+      "name": "Ryan Reynolds",
+      "email": "ryan@gmail.com",
+      "phone": "87876646668",
+      "avenger": "DeadPool"
+    },
+    {
+      "id": 10,
+      "name": "Andrew Garfield",
+      "email": "andrew@example.com",
+      "phone": "9876543210",
+      "avenger": "Spider-Man",
+      "contact": "spidermansociety.com"
+    },
+    {
+      "id": 11,
+      "name": "Dakota Johnson",
+      "email": "madameweb@gmail.com",
+      "phone": "9078685765",
+      "avenger": "Madame Web",
+      "contact": "spideywomen.com"
+    }
+  ]
+}

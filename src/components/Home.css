@@ -1,0 +1,18 @@
+.text-rainbow {
+    /* Rainbow text effect */
+    background: -webkit-linear-gradient(to right, violet, indigo, blue, green, yellow, orange, red);
+    background: linear-gradient(to right, violet, indigo, blue, green, yellow, orange, red);
+    
+    /* Apply background-clip property */
+    -webkit-background-clip: text; /* Chrome, Safari 3 */
+    -moz-background-clip: text; /* Firefox */
+    background-clip: text; /* Standard property */
+  
+    /* Make text transparent */
+    -webkit-text-fill-color: transparent; /* WebKit-based browsers */
+    color: transparent; /* Standard property */
+  
+    /* Darker font with shadows */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  }
+  
